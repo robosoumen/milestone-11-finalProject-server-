@@ -1,2 +1,4 @@
 node_modules
 .env
+.vercel
+new-key-zap-shift-project-firebase-adminsdk.json
